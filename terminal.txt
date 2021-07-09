@@ -1,0 +1,9 @@
+In home  the file .bashrc add.
+
+ROOT export PS1='\[\e[1;6;7;31m\]\u\[\e[m\] \[\e[1;34m\]\w\[\e[m\] \[\e[0;31m\]\$\[\e[m\]\[\e[1;32m\] '
+
+
+USER  export PS1='\[\e[1;6;7;32m\]\u\[\e[m\] \[\e[1;34m\]\w\[\e[m\] \[\e[1;32m\]\$\[\e[m\]\[\e[1;37m\] '
+
+And restart the terminal
+
