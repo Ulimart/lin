@@ -7,3 +7,12 @@ USER  export PS1='\[\e[1;6;7;32m\]\u\[\e[m\] \[\e[1;34m\]\w\[\e[m\] \[\e[1;32m\]
 
 And restart the terminal
 
+
+
+Documentation:
+
+https://wiki.archlinux.org/title/Bash_(Espa%C3%B1ol)/Prompt_customization_(Espa%C3%B1ol)
+
+https://www.cyberciti.biz/faq/bash-shell-change-the-color-of-my-shell-prompt-under-linux-or-unix/
+
+https://www.sololinux.es/colorear-la-terminal-linux/
